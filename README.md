@@ -1,2 +1,5 @@
 # euler-es6
-Answers for Euler Problems in ES6 
+Answers for [Euler Problems](https://projecteuler.net/archives) in ES6
+
+### Problems
+1. Multiples of 3 and 5
